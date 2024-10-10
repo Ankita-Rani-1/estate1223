@@ -1,13 +1,7 @@
-https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222252.png?raw=true
 
-https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222409.png?raw=true
 
-https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222539.png?raw=true
-
-https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222722.png?raw=true
-# Real Estate Web Application
-
-Welcome to the Real Estate Web Application! This project is designed to provide a seamless experience for users looking to buy, sell, or rent properties. The application is built using modern web technologies and offers a range of features to make property management easy and efficient.
+# Welcome to the Real Estate Web Application!
+This project is designed to provide a seamless experience for users looking to buy, sell, or rent properties. The application is built using modern web technologies and offers a range of features to make property management easy and efficient.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -125,8 +119,18 @@ We welcome contributions to enhance the project! To contribute, follow these ste
     ```
 6. **Create a Pull Request**.
 
+# step 1:
+<img width="1512" alt="Screenshot 2024-09-13 at 9 45 56 PM" src="https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222252.png?raw=true">
 
-<img width="1512" alt="Screenshot 2024-09-13 at 9 45 56 PM" src="https://github.com/user-attachments/assets/5a1639fa-8f13-4f79-af63-21b86e56353d">
+# step 2:
+<img width="1512" alt="Screenshot 2024-09-13 at 9 45 56 PM" src="https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222409.png?raw=true">
+
+# step 3:
+<img width="1512" src="https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222539.png?raw=true">
+
+# step 4:
+<img width="1512" src="https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222722.png?raw=true">
+
 
 
 
