@@ -19,14 +19,14 @@ The Real Estate Web Platform offers a comprehensive solution for users to list, 
 
 
 ## Key Features
-- ## Secure User Authentication: Incorporates JWT to manage user logins and registrations securely.
-- ## Property Listings: Easily add, update, or remove property details with a few clicks.
-- ## Advanced Search: Users can find properties based on criteria like location, pricing, and type.
-- ## Mobile-Responsive: Works smoothly across devices, including mobile and desktop.
-- ## Interactive Map Integration: Visualize properties on a dynamic map using Google Maps API.
-- ## Favorites: Allows users to save properties to revisit later.
-- ## Admin Controls: Admins can manage listings and user accounts with a dedicated dashboard.
-- ## Notification System: Stay informed with email alerts for crucial updates and actions.
+- *Secure User Authentication*: Incorporates JWT to manage user logins and registrations securely.
+- *Property Listings*: Easily add, update, or remove property details with a few clicks.
+- *Advanced Search*: Users can find properties based on criteria like location, pricing, and type.
+- *Mobile-Responsive*: Works smoothly across devices, including mobile and desktop.
+- *Interactive Map Integration*: Visualize properties on a dynamic map using Google Maps API.
+- *Favorites*: Allows users to save properties to revisit later.
+- *Admin Controls*: Admins can manage listings and user accounts with a dedicated dashboard.
+- *Notification System*: Stay informed with email alerts for crucial updates and actions.
 
 ## Technologies Used
 - **Frontend**: React, Redux, Bootstrap
