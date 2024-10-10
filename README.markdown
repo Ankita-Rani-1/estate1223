@@ -3,6 +3,8 @@ https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-1
 https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222409.png?raw=true
 
 https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222539.png?raw=true
+
+https://github.com/Ankita-Rani-1/estate1223/blob/main/images/Screenshot%202024-10-10%20222722.png?raw=true
 # Real Estate Web Application
 
 Welcome to the Real Estate Web Application! This project is designed to provide a seamless experience for users looking to buy, sell, or rent properties. The application is built using modern web technologies and offers a range of features to make property management easy and efficient.
