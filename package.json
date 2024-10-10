@@ -1,0 +1,12 @@
+{
+  "name": "real_estate_webapp-main",
+  "version": "1.0.0",
+  "description": "Welcome to the Real Estate Web Application! This project is designed to provide a seamless experience for users looking to buy, sell, or rent properties. The application is built using modern web technologies and offers a range of features to make property management easy and efficient.",
+  "main": "js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node js/script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
